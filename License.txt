@@ -1,0 +1,42 @@
+============================================================================
+Legal Property information, provided by Jim Reforma® Software created and
+designed FileZIP Detector v1 by Jim Reforma the producer of dataSync® Software
+Date : April/30/2000
+============================================================================
+
+OWNERSHIP.  The Software is proprietary to Jim Reforma® Software and protected
+by the Author/ Programmer authority.You must treat the Software as any other copyrighted and legally protected
+material. You may not modify, adapt, translate, reverse engineer, decompile,
+disassemble the Software or create derivative works using or based on the Software,
+nor may you distribute, loan, rent, or lease, timeshare or use the Software to
+provide services for third parties, sublicense or transmit all or any portion of the
+Software, nor may you allow others to do so. FileZIP Detector® Software reserves all
+rights not expressly granted herein. FileZIP Detector® Software owns all right title and
+interest in and to the Software and nothing in this Agreement shall be construed to
+transfer, convey, impair or otherwise adversely affect FileZIP Detector ® Software's
+ownership or proprietary rights therein or any other FileZIP Detector® Software
+information or materials, tangible or intangible, in any form and in any medium.
+
+OWNERSHIP SIMPLIFIED. Any person for any reasons try to copy this software is liable
+to prosecution if caught. This software only can be used on one machine at home
+or on a network system. You may not redistribute or decompile this software in any
+electronic format. All rights reserved.
+
+FOR MORE INFORMATION.
+Please read help documents.
+
+		ThankYou for using this software.
+
+           Copyright(©) 1999-2004
+           Created by Jim Reforma® Software
+           [Registered Property PR]
+
+Note: Thanks also to my Kumpare and friend of mine Cliff O. Mercado for being 
+      such a nice person.
+
+
+'==================================================================
+'Comments!! Imagination is more important than knowledge, 
+'           for knowledge is limited while imagination embraces 
+'           the entire world.""
+'==================================================================
